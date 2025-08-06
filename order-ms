@@ -1,4 +1,3 @@
-# DATABASE CONFIGURATION
 spring.datasource.url=jdbc:mysql://localhost:3306/orderdb?useSSL=false&allowPublicKeyRetrieval=true
 spring.datasource.username=root
 spring.datasource.password=Supriya@12345
