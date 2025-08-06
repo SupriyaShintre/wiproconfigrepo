@@ -1,4 +1,3 @@
-# DATABASE CONFIG
 spring.datasource.url=jdbc:mysql://localhost:3306/paymentdb?useSSL=false&allowPublicKeyRetrieval=true
 spring.datasource.username=root
 spring.datasource.password=Supriya@12345
